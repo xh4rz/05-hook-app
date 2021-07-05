@@ -7,11 +7,3 @@ exports[`Pruebas en el <HookApp /> debe mostrarse correctamente 1`] = `
   </h1>
 </div>
 `;
-
-exports[`Pruebas en el <HookApp/> debe de mostrarse el componente 1`] = `
-<div>
-  <h1>
-    Hola Mundo
-  </h1>
-</div>
-`;
